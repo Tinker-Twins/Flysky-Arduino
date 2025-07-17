@@ -1,5 +1,9 @@
-# Flysky Arduino
-Flysky FS-i6X Integration with Arduino
+# Flysky-Arduino
+Flysky (FS-i6X + FS-iA6B) Integration with Arduino
+
+| ![image](Flysky%20FS-i6X.jpg) | ![image](Flysky%20FS-iA6B.jpg) | ![image](Arduino%20UNO%20R3.jpg) |
+|:-----------------------------:|:------------------------------:|:--------------------------------:|
+| **Flysky FS-i6X**             | **Flysky FS-iA6B**             | **Arduino UNO R3**               |
 
 ## SETUP
 
