@@ -16,12 +16,12 @@ Flysky (FS-i6X + FS-iA6B) Integration with Arduino
   |----------|---------|
   | GND      | GND     |
   | 5V       | VCC     |
-  | 3        | 1       |
-  | 5        | 2       |
-  | 6        | 3       |
-  | 9        | 4       |
-  | 10       | 5       |
-  | 11       | 6       |
+  | 3        | CH1     |
+  | 5        | CH2     |
+  | 6        | CH3     |
+  | 9        | CH4     |
+  | 10       | CH5     |
+  | 11       | CH6     |
 
   *Use PWM Pins on Arduino
 
