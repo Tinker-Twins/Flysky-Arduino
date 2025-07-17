@@ -30,7 +30,7 @@ Flysky (FS-i6X + FS-iA6B) Integration with Arduino
 - Disconnect the Arduino from the computer while you power up the transmitter.
 - Connect the Arduino and open your Serial Monitor. You should start seeing a display of all six channels.
 - Manipulate the remote controls and observe the Serial Monitor data. You should see that each control affects a specific channel of data.
-- The switch SWA will give values of 0 or 1, depending on its position. Everything else will range between -100 and 100, with zero being the center.
+- CH6 (switch SWA) will give boolean values of 0 or 1, depending on its position. Everything else will range between -100 and 100, with zero being the center.
 
 ## REFERENCES
 
